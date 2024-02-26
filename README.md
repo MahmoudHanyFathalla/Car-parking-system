@@ -27,9 +27,9 @@ Proof of Concept College Parking System created in VHDL which includes many feat
 # Credits
 
 Coded by:
-- Mahmoud Hany
-- Ismail Fakhr
-- Ahmed Kamal
-- Alaa Imam
-- Anton Ashraf
-- Ahmed Mohamed El-Dalil
+- Mahmoud Hany.
+- Ismail Fakhr.
+- Ahmed Kamal.
+- Alaa Imam.
+- Anton Ashraf.
+- Ahmed Mohamed El-Dalil.
